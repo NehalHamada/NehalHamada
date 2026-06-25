@@ -29,6 +29,7 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 - 🌱 Currently expanding my skills with Next.js
 - ⚡ Strong believer in clean architecture, reusable components, and maintainable code
 - 🤝 Open to Frontend opportunities and open-source collaboration
+- ☺️ ITI scholarship 
 
 ---
 
