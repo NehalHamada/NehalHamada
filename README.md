@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Nehal Hamada</h1>
 
 <h3 align="center">
@@ -108,4 +108,4 @@ Employee management system built using JavaScript, Bootstrap, and JSON Server.
 <p align="center">
 Thanks for visiting my profile ❤️
 </p>
-```
+
