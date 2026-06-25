@@ -37,7 +37,7 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 
 -<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,vite,nextjs,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,vite,git,github,figma,vscode"/>
 
 </p>
 
@@ -73,16 +73,6 @@ Responsive blog application built with React.js featuring authentication, CRUD o
 ### 💼 HR Management System
 
 Employee management system built using JavaScript, Bootstrap, and JSON Server with attendance and salary management.
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
