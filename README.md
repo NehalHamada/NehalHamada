@@ -11,16 +11,12 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nehal-hamada">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nehalhamada2001@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
@@ -48,6 +44,7 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 ### Libraries & Tools
 
 - React Router
+- Redux Toolkit
 - TanStack Query
 - Zustand
 - React Hook Form
@@ -63,8 +60,6 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 ### 🌱 Naptah Platform
 End-to-end agriculture support platform with authentication, real-time chat, community feed, disease detection, marketplace, and admin dashboard.
 
-### 📝 Blog App
-React blog application with authentication, CRUD operations, comments, and responsive UI.
 
 ### 💼 HR Management System
 Employee management system built using JavaScript, Bootstrap, and JSON Server.
