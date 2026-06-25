@@ -36,7 +36,7 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 ## 🚀 Tech Stack
 
 
--<p align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,vite,git,github,figma,vscode"/>
 
