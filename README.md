@@ -24,24 +24,24 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 
 ## 👩‍💻 About Me
 
-- 💼 Frontend Developer specialized in React.js
-- 🌱 Currently learning **Next.js**
-- ⚡ Interested in building modern and scalable web applications
-- 🎯 Focused on writing clean, reusable, and maintainable code
-- 🤝 Open to collaborating on React & Next.js projects
-- 📫 Reach me at **nehalhamada2001@gmail.com**
+- 💼 Frontend Developer with hands-on experience in React.js and TypeScript
+- 🚀 Passionate about building scalable, responsive, and user-friendly web applications
+- 🌱 Currently expanding my skills with Next.js
+- ⚡ Strong believer in clean architecture, reusable components, and maintainable code
+- 🤝 Open to Frontend opportunities and open-source collaboration
 
 ---
 
 ## 🚀 Tech Stack
 
-<p>
+
+-<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,vite,nextjs,git,github,figma,vscode"/>
 
 </p>
 
-### Libraries & Tools
+### Libraries
 
 - React Router
 - Redux Toolkit
@@ -49,32 +49,30 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 - Zustand
 - React Hook Form
 - Zod
+- Axios
 - Material UI
 - Shadcn UI
-- Axios
 
 ---
+
 
 ## 📌 Featured Projects
 
 ### 🌱 Naptah Platform
-End-to-end agriculture support platform with authentication, real-time chat, community feed, disease detection, marketplace, and admin dashboard.
 
-
-### 💼 HR Management System
-Employee management system built using JavaScript, Bootstrap, and JSON Server.
+End-to-end agriculture support platform featuring authentication, disease detection, real-time messaging, marketplace, community feed, and admin dashboard.
 
 ---
 
-## 📊 GitHub Stats
+### 📝 Blog App
 
-<p align="center">
+Responsive blog application built with React.js featuring authentication, CRUD operations, comments, Context API, React Router, and local storage.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+### 💼 HR Management System
 
-</p>
+Employee management system built using JavaScript, Bootstrap, and JSON Server with attendance and salary management.
 
 ---
 
