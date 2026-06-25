@@ -26,10 +26,10 @@ I enjoy transforming ideas into clean, maintainable, and high-performance interf
 
 - 💼 Frontend Developer with hands-on experience in React.js and TypeScript
 - 🚀 Passionate about building scalable, responsive, and user-friendly web applications
-- 🌱 Currently expanding my skills with Next.js
-- ⚡ Strong believer in clean architecture, reusable components, and maintainable code
-- 🤝 Open to Frontend opportunities and open-source collaboration
-- ☺️ ITI scholarship 
+- 🌱 Currently learning Next.js
+- 🎓 Completed the ITI Frontend Development Scholarship
+- ⚡ Focused on clean architecture, reusable components, and maintainable code
+- 🤝 Open to Frontend opportunities and open-source collaboration 
 
 ---
 
